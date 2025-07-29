@@ -80,7 +80,6 @@
 ## ⚙️ 기술 스택 (Tech Stack)
 
 - **🖥️ Language (언어)**
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   Python, Java, JavaScript, TypeScript, Dart, HTML, CSS
 
 - **🎨 Frontend (프론트엔드)**  
