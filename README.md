@@ -80,7 +80,7 @@
 ## ⚙️ 기술 스택 (Tech Stack)
 
 - **🖥️ Language (언어)**
-  Python, Java, JavaScript, TypeScript, Dart, HTML, CSS
+   Python, Java, JavaScript, TypeScript, Dart, HTML, CSS
 
 - **🎨 Frontend (프론트엔드)**  
   React, Next.js, Vue.js, JQuery, TailwindCSS
