@@ -3,7 +3,7 @@
 - 👨‍💻 Full-stack 개발자
 - 🤖 AI 자동화 엔지니어
 - 🚀 스타트업 운영자 (CEO & CTO)
-- 👨‍🏫 IT/음악 강사
+- 👨‍🏫 IT/개발발 강사
 - 🎭 문화예술단체 Bühne 운영
 
 ---
@@ -125,11 +125,5 @@
 
 
 ---
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=david-han-0831&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=david-han-0831&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-han-0831&layout=compact" />
-</div>
 
