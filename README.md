@@ -3,7 +3,7 @@
 - 👨‍💻 Full-stack 개발자
 - 🤖 AI 자동화 엔지니어
 - 🚀 스타트업 운영자 (CEO & CTO)
-- 👨‍🏫 IT/개발발 강사
+- 👨‍🏫 IT/개발 강사
 - 🎭 문화예술단체 Bühne 운영
 
 ---
@@ -116,9 +116,6 @@
 ## 📬 Contact
 
 - 📧 **Email**: hdy20201004@gmail.com  
-- 🌐 **Portfolio**: [](#)  
-- 📝 **Blog**: [](#)  
-- 📸 **Instagram**: [](#)  
 - 💬 **Threads**: [Threads Link](https://www.threads.net/@hdy20201004)  
 - 💼 **LinkedIn**: [LinkedIn Link](https://www.linkedin.com/in/david880927/)
 
